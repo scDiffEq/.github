@@ -2,7 +2,7 @@
 
 ## 🧙 Introduction & overview
 
-![scdiffeq-dependency-map](../assets/scdiffeq_dependency_map.png)
+![scdiffeq-dependency-map](.github/assets/scdiffeq_dependency_map.png)
 
 ## 👩‍💻 Documentation & resources
 
