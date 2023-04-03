@@ -4,8 +4,6 @@
 
 ## 🧙 Introduction & overview
 
-![scdiffeq_dependency_map](https://user-images.githubusercontent.com/47393421/225793978-a1e58e89-e17d-4542-b8c5-b41411b927c4.png)
-
 ## 👩‍💻 Documentation & resources
 
 ## 👏 Community highlights
