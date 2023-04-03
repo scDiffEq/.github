@@ -9,7 +9,7 @@
 In progress - coming soon.
 
 ## 👏 Community highlights
-* @mvinyard presented *scDiffEq* at the [CSHL meeting for Probabilistic Modeling in Genomics](https://meetings.cshl.edu/meetings.aspx?meet=PROBGEN&year=23) #ProbGen23
+* [@mvinyard](https://github.com/mvinyard) presented *scDiffEq* at the [CSHL meeting for Probabilistic Modeling in Genomics](https://meetings.cshl.edu/meetings.aspx?meet=PROBGEN&year=23) #ProbGen23
 
 
 
